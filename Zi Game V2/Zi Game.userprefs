@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Vehicles\Car\Prefabs\Shooting.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Prefabs\Shooting.cs" Line="11" Column="17" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\EnemyCollision.cs" Line="23" Column="2" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\Bullet_Behaviour.cs" Line="28" Column="3" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\YouWin.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

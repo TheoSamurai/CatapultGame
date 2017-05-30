@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{91163509-537C-DB89-E3E4-DF753FFB74C3}") = "Zi Game", "Assembly-CSharp-firstpass.csproj", "{243B082F-BEF7-C890-6459-51BBC8EAE170}"
+EndProject
+Project("{91163509-537C-DB89-E3E4-DF753FFB74C3}") = "Zi Game", "Assembly-CSharp-Editor-firstpass.csproj", "{8B07DA19-2B2B-F445-F393-32958D4D86FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243B082F-BEF7-C890-6459-51BBC8EAE170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243B082F-BEF7-C890-6459-51BBC8EAE170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243B082F-BEF7-C890-6459-51BBC8EAE170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243B082F-BEF7-C890-6459-51BBC8EAE170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B07DA19-2B2B-F445-F393-32958D4D86FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B07DA19-2B2B-F445-F393-32958D4D86FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B07DA19-2B2B-F445-F393-32958D4D86FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B07DA19-2B2B-F445-F393-32958D4D86FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
